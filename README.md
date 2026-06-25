@@ -16,3 +16,4 @@
 
 * Telnetサーバ構築マニュアル
 
+https://github.com/itc-n25015/ctf2026/blob/main/ctf.py
