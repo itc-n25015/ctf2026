@@ -81,7 +81,7 @@ ftp 192.168.122.204
 
 ## 1. Telnet関連パッケージのインストール
 sudo apt update
-sudo apt install tenlnet xinetd -y
+sudo apt install tenlnetd xinetd -y
 
 ## 2. xinetdの起動
 
